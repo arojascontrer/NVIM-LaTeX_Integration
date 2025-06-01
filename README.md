@@ -4,7 +4,7 @@ This repository contains the continuation of my VIM-LaTeX_Integration. It contai
 
 Based on Gilles Castel note taking method. https://castel.dev/
 
-Make sure you are running NVIM 0.11.1 with python 3 support before installing. It may be possible to run the build in earlier versions of NVIM but it hasn't been tested.
+Make sure you are running NVIM 0.11.1 with python 3 support before installing. It may be possible to run the build in earlier versions of NVIM but this hasn't been tested.
 
 Templates are modified versions of overleaf templates.
 
